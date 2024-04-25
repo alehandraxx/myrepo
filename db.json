@@ -1,0 +1,20 @@
+{  
+  "remodelers": [
+    {
+      "id": 1,
+      "name": "RenovaPro",
+      "image": "https://media.designcafe.com/wp-content/uploads/2023/01/31151510/contemporary-interior-design-ideas-for-your-home.jpg",
+      "expertise": "",
+      "projects": "",
+      "portfolio": ""
+    },
+    {
+      "id": 2,
+      "name": "ReModelo",
+      "image": "https://megafurniture.sg/cdn/shop/articles/modern-luxury-interior-design-tips-for-home-renovation-megafurniture_d199fbaa-61e4-4abe-9d1d-37b272b30fc1.jpg?v=1710226685",
+      "expertise": "",
+      "projects": "",
+      "portfolio": ""
+    }
+  ]
+}
