@@ -65,6 +65,28 @@
           "description": "Creamos un ambiente de tranquilidad y confort en tu cocina, con una combinación de elegancia y funcionalidad."
       }
      ]
+    },
+        {
+      "id": 4,
+      "name": "ReNova",
+      "image": "https://img.freepik.com/foto-gratis/disenadores-moda-atelier-consultando-planes-lineas-ropa-tablero-ideas_23-2148846759.jpg?t=st=1714098111~exp=1714101711~hmac=77e098b94c0502ebb72396ead61beeed785038ea424e5351823f6e0b896a64ed&w=1380",
+      "expertise": "Hogar",
+      "address": "104 Calle Estrella",
+      "city": "Arequipa",
+      "portfolio": [
+        {
+          "id": 1,
+          "name": "Dormitorio elegante",
+          "image": "https://img.freepik.com/foto-gratis/dormitorio-lampara-arana-cama-manta-encima_188544-33431.jpg?t=st=1714098131~exp=1714101731~hmac=2eeba4d7aa4cbcf03b2804c409281ee95b50392253bd3b9164c9bdf883dc5df0&w=1380",
+          "description": "En el proyecto de remodelación de la cocina, transformamos el espacio en un ambiente funcional y estéticamente atractivo. Actualizamos los gabinetes y electrodomésticos para mejorar la eficiencia y el estilo, instalamos encimeras de alta calidad para mayor durabilidad y elegancia, y diseñamos una distribución inteligente para maximizar el espacio de almacenamiento y la comodidad durante el uso diario. "
+        },      
+        {
+          "id": 2,
+          "name": "Patio de juegos funcional",
+          "image": "https://img.freepik.com/foto-gratis/chica-sonriente-tiro-completo-sindrome-down_23-2149531917.jpg?t=st=1714098155~exp=1714101755~hmac=403567141cb1307b86321ad750d68939bab23c2860f97d0e27e8c312036da6c9&w=1380",
+          "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad. Actualizamos los azulejos y la grifería para dar un aspecto moderno y elegante. Instalamos una ducha de alta tecnología con múltiples funciones y una bañera independiente para mayor comodidad y relajación. Además, incorporamos iluminación LED para crear un ambiente relajante y spa. El diseño se centró en maximizar el espacio de almacenamiento y mejorar la eficiencia del baño, convirtiéndolo en un oasis de tranquilidad y confort."
+        }
+      ]
     }
   ]
 }
