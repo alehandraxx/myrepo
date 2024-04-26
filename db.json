@@ -3,22 +3,46 @@
     {
       "id": 1,
       "name": "RenovaPro",
-      "image": "https://media.designcafe.com/wp-content/uploads/2023/01/31151510/contemporary-interior-design-ideas-for-your-home.jpg",
-      "expertise": "",
-      "address": "",
+      "image": "https://img.freepik.com/foto-gratis/disenador-interiores-trabajando-pareja-joven_155003-27036.jpg?t=st=1714091383~exp=1714094983~hmac=2fdb20f7762dd31c5a2b4d1dbcb0a720ae612afadf9ffc14410d3f82c8b4a9f6&w=1380",
+      "expertise": "Hogar",
+      "address": "123 Calle Amarilla",
       "city": "Lima",
-      "projects": "",
-      "portfolio": ""
+      "portfolio": [
+        {
+          "id": 1,
+          "name": "Renovación de habitación matrimonial",
+          "image": "https://img.freepik.com/foto-gratis/comodo-dormitorio-moderno-elegante-cabecero-madera-generado-ia_24640-87460.jpg?t=st=1714091277~exp=1714094877~hmac=ea13d6de1dfd502d8b2d44b7a0a0a00538c4b60e4980b1246e9f99691383c394&w=1380",
+          "description": "En el proyecto de remodelación de la habitación matrimonial, renovamos por completo el espacio para crear un ambiente moderno y acogedor. Actualizamos la pintura de las paredes con tonos suaves y relajantes, instalamos nuevos muebles que maximizan el espacio y agregamos iluminación ambiental para crear una atmósfera cálida y romántica."
+        },    
+        {
+          "id": 2,
+          "name": "Renovación de habitación infantil",
+          "image": "https://img.freepik.com/foto-gratis/interior-decoracion-habitacion-ninos-juguetes_23-2149096020.jpg?t=st=1714091504~exp=1714095104~hmac=7382e4055471b5ed4867ce54e9a597e6afa96e869b73721fc6f3eaa79cc86713&w=1380",
+          "description": "En el proyecto de renovación de la habitación infantil, creamos un espacio vibrante y divertido que estimula la imaginación y el juego. Utilizamos colores alegres y patrones lúdicos en la pintura de las paredes y los accesorios decorativos. Instalamos muebles funcionales y seguros, diseñados específicamente para niños, que ofrecen tanto espacio de almacenamiento como áreas de juego."
+        }
+      ]
     },
     {
       "id": 2,
       "name": "ReModelo",
-      "image": "https://megafurniture.sg/cdn/shop/articles/modern-luxury-interior-design-tips-for-home-renovation-megafurniture_d199fbaa-61e4-4abe-9d1d-37b272b30fc1.jpg?v=1710226685",
-      "expertise": "",
-      "address": "",
-      "city": "Lima",
-      "projects": "",
-      "portfolio": ""
+      "image": "https://img.freepik.com/foto-gratis/hombre-mujer-tiro-completo-pie-escalera_23-2149366705.jpg?t=st=1714091410~exp=1714095010~hmac=ff15cf4556ec150251bfd7b7d248f645ad134fbe63e8f2085fad594470551bb5&w=1380",
+      "expertise": "Hogar",
+      "address": "99 Avenida Azul",
+      "city": "Piura",
+      "portfolio": [
+        {
+          "id": 1,
+          "name": "Estrena cocina nueva!",
+          "image": "https://img.freepik.com/foto-gratis/hermoso-diseno-interior-cocina_23-2150976573.jpg?t=st=1714091319~exp=1714094919~hmac=20dc34d71dcf2041fa354a8c0f13d0fbed639d3f825eabbb8075aa14d00bb6e1&w=996",
+          "description": "En el proyecto de remodelación de la cocina, transformamos el espacio en un ambiente funcional y estéticamente atractivo. Actualizamos los gabinetes y electrodomésticos para mejorar la eficiencia y el estilo, instalamos encimeras de alta calidad para mayor durabilidad y elegancia, y diseñamos una distribución inteligente para maximizar el espacio de almacenamiento y la comodidad durante el uso diario. "
+        },      
+        {
+          "id": 2,
+          "name": "Renovación de baño principal",
+          "image": "https://img.freepik.com/foto-gratis/bano-pequeno-estilo-moderno-plantas_23-2150700372.jpg?t=st=1714091587~exp=1714095187~hmac=ac055413b11839d2506026afdeac945a48985a9353e09c723bdad7c40b27d374&w=1380",
+          "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad. Actualizamos los azulejos y la grifería para dar un aspecto moderno y elegante. Instalamos una ducha de alta tecnología con múltiples funciones y una bañera independiente para mayor comodidad y relajación. Además, incorporamos iluminación LED para crear un ambiente relajante y spa. El diseño se centró en maximizar el espacio de almacenamiento y mejorar la eficiencia del baño, convirtiéndolo en un oasis de tranquilidad y confort."
+        }
+      ]
     }
   ]
 }
