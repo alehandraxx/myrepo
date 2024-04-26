@@ -43,6 +43,28 @@
           "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad. Actualizamos los azulejos y la grifería para dar un aspecto moderno y elegante. Instalamos una ducha de alta tecnología con múltiples funciones y una bañera independiente para mayor comodidad y relajación. Además, incorporamos iluminación LED para crear un ambiente relajante y spa. El diseño se centró en maximizar el espacio de almacenamiento y mejorar la eficiencia del baño, convirtiéndolo en un oasis de tranquilidad y confort."
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "EcoRenovations",
+      "image": "https://img.freepik.com/foto-gratis/bodegon-objetivos-desarrollo-sostenible_23-2150196621.jpg?t=st=1714097994~exp=1714101594~hmac=46acdce4058e188976793a519bc95dc1bdb195715bee906ea164ba88e0a15259&w=1380",
+      "expertise": "Hogar",
+      "address": "123 Calle Verde",
+      "city": "Lima",
+      "portfolio": [
+       { 
+          "id": 1,
+          "name": "Comedor natural",
+          "image": "https://img.freepik.com/foto-gratis/fondo-mesa-comedor-llamadas-zoom_23-2149684456.jpg?t=st=1714097910~exp=1714101510~hmac=4cb532ff0c6ef7fce430ea91998b1037ff4ed0adf722264299acdb3745a05118&w=1380",
+          "description": "Transformamos tu comedor en un espacio acogedor y moderno, con diseños personalizados y atención a cada detalle."
+      },
+      {
+          "id": 2,
+          "name": "Cocina ecologica",
+          "image": "https://img.freepik.com/foto-gratis/primer-plano-contenedores-comida-desperdicio_23-2149316619.jpg?t=st=1714097951~exp=1714101551~hmac=ff9a13830ccd7878a7cc16aa777b3c2c72cf85fcab66347a62b0611cae80de3a&w=1380",
+          "description": "Creamos un ambiente de tranquilidad y confort en tu cocina, con una combinación de elegancia y funcionalidad."
+      }
+     ]
     }
   ]
 }
