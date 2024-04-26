@@ -7,6 +7,7 @@
       "expertise": "Hogar",
       "address": "123 Calle Amarilla",
       "city": "Lima",
+      "description": "Especialistas en renovaciones residenciales, ofreciendo soluciones innovadoras y de alta calidad. Con más de 10 años de experiencia. Ubicados en el distrito de San Miguel en Lima, Perú.",
       "portfolio": [
         {
           "id": 1,
@@ -29,6 +30,7 @@
       "expertise": "Hogar",
       "address": "99 Avenida Azul",
       "city": "Piura",
+      "description": "Especialistas en renovaciones residenciales, ofreciendo soluciones innovadoras y de alta calidad. Con más de 10 años de experiencia. Ubicados en el distrito de San Miguel en Lima, Perú.",
       "portfolio": [
         {
           "id": 1,
@@ -51,6 +53,7 @@
       "expertise": "Hogar",
       "address": "123 Calle Verde",
       "city": "Lima",
+      "description": "Especialistas en renovaciones residenciales, ofreciendo soluciones innovadoras y de alta calidad. Con más de 10 años de experiencia. Ubicados en el distrito de San Miguel en Lima, Perú.",
       "portfolio": [
         { 
           "id": 1,
@@ -73,6 +76,7 @@
       "expertise": "Hogar",
       "address": "104 Calle Estrella",
       "city": "Arequipa",
+      "description": "Especialistas en renovaciones residenciales, ofreciendo soluciones innovadoras y de alta calidad. Con más de 10 años de experiencia. Ubicados en el distrito de San Miguel en Lima, Perú.",
       "portfolio": [
         {
           "id": 1,
