@@ -52,19 +52,19 @@
       "address": "123 Calle Verde",
       "city": "Lima",
       "portfolio": [
-       { 
+        { 
           "id": 1,
           "name": "Comedor natural",
           "image": "https://img.freepik.com/foto-gratis/fondo-mesa-comedor-llamadas-zoom_23-2149684456.jpg?t=st=1714097910~exp=1714101510~hmac=4cb532ff0c6ef7fce430ea91998b1037ff4ed0adf722264299acdb3745a05118&w=1380",
           "description": "Transformamos tu comedor en un espacio acogedor y moderno, con diseños personalizados y atención a cada detalle."
-      },
-      {
+        },
+        {
           "id": 2,
           "name": "Cocina ecologica",
           "image": "https://img.freepik.com/foto-gratis/primer-plano-contenedores-comida-desperdicio_23-2149316619.jpg?t=st=1714097951~exp=1714101551~hmac=ff9a13830ccd7878a7cc16aa777b3c2c72cf85fcab66347a62b0611cae80de3a&w=1380",
           "description": "Creamos un ambiente de tranquilidad y confort en tu cocina, con una combinación de elegancia y funcionalidad."
-      }
-     ]
+        }
+      ]
     },
     {
       "id": 4,
