@@ -26,7 +26,7 @@
         {
           "id": 1,
           "duration": "1 mes",
-          "project_name": "Renovación de habitación matrimonial",
+          "project": "Renovación de habitación matrimonial",
           "client_name": "Lucia Flores",
           "rating": 5,
           "comment": "Excelente trabajo, muy profesionales y atentos a los detalles. ¡Recomendados!",
@@ -60,7 +60,7 @@
         {
           "id": 1,
           "duration": "2 meses",
-          "project_name": "Estrena cocina nueva!",
+          "project": "Estrena cocina nueva!",
           "client_name": "Pedro Ramirez",
           "rating": 4,
           "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecho con el resultado.",
