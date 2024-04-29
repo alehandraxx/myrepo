@@ -91,15 +91,6 @@
         }
       ],
       "reviews": [
-        {
-          "id": 1,
-          "duration": "3 semanas",
-          "project_name:": "Comedor natural",
-          "client_name": "Luisa Torres",
-          "rating": 4,
-          "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecha con el resultado.",
-          "image": "https://img.freepik.com/foto-gratis/fondo-mesa-comedor-llamadas-zoom_23-2149684456.jpg?t=st=1714097910~exp=1714101510~hmac=4cb532ff0c6ef7fce430ea91998b1037ff4ed0adf722264299acdb3745a05118&w=1380"
-        }
       ]
     },
     {
@@ -125,15 +116,6 @@
         }
       ],
       "reviews": [
-        {
-          "id": 1,
-          "duration": "2 meses",
-          "project_name:": "Dormitorio elegante",
-          "client_name": "Carlos Torres",
-          "rating": 4,
-          "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecha con el resultado.",
-          "image": "https://img.freepik.com/foto-gratis/dormitorio-lampara-arana-cama-manta-encima_188544-33431.jpg?t=st=1714098131~exp=1714101731~hmac=2eeba4d7aa4cbcf03b2804c409281ee95b50392253bd3b9164c9bdf883dc5df0&w=1380"
-        }
       ]
     }
   ]
