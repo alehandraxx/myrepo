@@ -21,6 +21,26 @@
           "image": "https://img.freepik.com/foto-gratis/interior-decoracion-habitacion-ninos-juguetes_23-2149096020.jpg?t=st=1714091504~exp=1714095104~hmac=7382e4055471b5ed4867ce54e9a597e6afa96e869b73721fc6f3eaa79cc86713&w=1380",
           "description": "En el proyecto de renovación de la habitación infantil, creamos un espacio vibrante y divertido que estimula la imaginación y el juego. Utilizamos colores alegres y patrones lúdicos en la pintura de las paredes y los accesorios decorativos. Instalamos muebles funcionales y seguros, diseñados específicamente para niños, que ofrecen tanto espacio de almacenamiento como áreas de juego."
         }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "duration": "1 mes",
+          "project_name:": "Renovación de habitación matrimonial",
+          "client_name": "Lucia Flores",
+          "rating": 5,
+          "comment": "Excelente trabajo, muy profesionales y atentos a los detalles. ¡Recomendados!",
+          "image": "https://img.freepik.com/foto-gratis/comodo-dormitorio-moderno-elegante-cabecero-madera-generado-ia_24640-87460.jpg?t=st=1714091277~exp=1714094877~hmac=ea13d6de1dfd502d8b2d44b7a0a0a00538c4b60e4980b1246e9f99691383c394&w=1380"
+        },
+        {
+          "id": 2,
+          "duration": "3 semanas",
+          "project_name:": "Renovación de habitación infantil",
+          "client_name": "Carla Diaz",
+          "rating": 5,
+          "comment": "¡Quedamos encantados con el resultado! Nuestro hijo está feliz con su nueva habitación. ¡Gracias!",
+          "image": "https://img.freepik.com/foto-gratis/interior-decoracion-habitacion-ninos-juguetes_23-2149096020.jpg?t=st=1714091504~exp=1714095104~hmac=7382e4055471b5ed4867ce54e9a597e6afa96e869b73721fc6f3eaa79cc86713&w=1380"
+        }
       ]
     },
     {
@@ -43,6 +63,26 @@
           "name": "Renovación de baño principal",
           "image": "https://img.freepik.com/foto-gratis/bano-pequeno-estilo-moderno-plantas_23-2150700372.jpg?t=st=1714091587~exp=1714095187~hmac=ac055413b11839d2506026afdeac945a48985a9353e09c723bdad7c40b27d374&w=1380",
           "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad. Actualizamos los azulejos y la grifería para dar un aspecto moderno y elegante. Instalamos una ducha de alta tecnología con múltiples funciones y una bañera independiente para mayor comodidad y relajación. Además, incorporamos iluminación LED para crear un ambiente relajante y spa. El diseño se centró en maximizar el espacio de almacenamiento y mejorar la eficiencia del baño, convirtiéndolo en un oasis de tranquilidad y confort."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "duration": "2 meses",
+          "project_name:": "Estrena cocina nueva!",
+          "client_name": "Pedro Ramirez",
+          "rating": 4,
+          "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecho con el resultado.",
+          "image": "https://img.freepik.com/foto-gratis/hermoso-diseno-interior-cocina_23-2150976573.jpg?t=st=1714091319~exp=1714094919~hmac=20dc34d71dcf2041fa354a8c0f13d0fbed639d3f825eabbb8075aa14d00bb6e1&w=996"
+        },
+        {
+          "id": 2,
+          "duration": "1 mes",
+          "project_name:": "Renovación de baño principal",
+          "client_name": "Ana Lopez",
+          "rating": 5,
+          "comment": "¡Increíble trabajo! El baño quedó espectacular, muy moderno y funcional. ¡Gracias por todo!",
+          "image": "https://img.freepik.com/foto-gratis/bano-pequeno-estilo-moderno-plantas_23-2150700372.jpg?t=st=1714091587~exp=1714095187~hmac=ac055413b11839d2506026afdeac945a48985a9353e09c723bdad7c40b27d374&w=1380"
         }
       ]
     },
@@ -67,6 +107,17 @@
           "image": "https://img.freepik.com/foto-gratis/primer-plano-contenedores-comida-desperdicio_23-2149316619.jpg?t=st=1714097951~exp=1714101551~hmac=ff9a13830ccd7878a7cc16aa777b3c2c72cf85fcab66347a62b0611cae80de3a&w=1380",
           "description": "Creamos un ambiente de tranquilidad y confort en tu cocina, con una combinación de elegancia y funcionalidad."
         }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "duration": "3 semanas",
+          "project_name:": "Comedor natural",
+          "client_name": "Luisa Torres",
+          "rating": 4,
+          "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecha con el resultado.",
+          "image": "https://img.freepik.com/foto-gratis/fondo-mesa-comedor-llamadas-zoom_23-2149684456.jpg?t=st=1714097910~exp=1714101510~hmac=4cb532ff0c6ef7fce430ea91998b1037ff4ed0adf722264299acdb3745a05118&w=1380"
+        }
       ]
     },
     {
@@ -90,59 +141,18 @@
           "image": "https://img.freepik.com/foto-gratis/chica-sonriente-tiro-completo-sindrome-down_23-2149531917.jpg?t=st=1714098155~exp=1714101755~hmac=403567141cb1307b86321ad750d68939bab23c2860f97d0e27e8c312036da6c9&w=1380",
           "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad. Actualizamos los azulejos y la grifería para dar un aspecto moderno y elegante. Instalamos una ducha de alta tecnología con múltiples funciones y una bañera independiente para mayor comodidad y relajación. Además, incorporamos iluminación LED para crear un ambiente relajante y spa. El diseño se centró en maximizar el espacio de almacenamiento y mejorar la eficiencia del baño, convirtiéndolo en un oasis de tranquilidad y confort."
         }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "duration": "2 meses",
+          "project_name:": "Dormitorio elegante",
+          "client_name": "Carlos Torres",
+          "rating": 4,
+          "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecha con el resultado.",
+          "image": "https://img.freepik.com/foto-gratis/dormitorio-lampara-arana-cama-manta-encima_188544-33431.jpg?t=st=1714098131~exp=1714101731~hmac=2eeba4d7aa4cbcf03b2804c409281ee95b50392253bd3b9164c9bdf883dc5df0&w=1380"
+        }
       ]
-    }
-  ],
-  "reviews":[
-    {
-      "id": 1,
-      "remodeler_id": 1,
-      "duration": "1 mes",
-      "project_name:": "Renovación de habitación matrimonial",
-      "client_name": "Lucia Flores",
-      "rating": 5,
-      "comment": "Excelente trabajo, muy profesionales y atentos a los detalles. ¡Recomendados!",
-      "image": "https://img.freepik.com/foto-gratis/comodo-dormitorio-moderno-elegante-cabecero-madera-generado-ia_24640-87460.jpg?t=st=1714091277~exp=1714094877~hmac=ea13d6de1dfd502d8b2d44b7a0a0a00538c4b60e4980b1246e9f99691383c394&w=1380"
-    },
-    {
-      "id": 2,
-      "remodeler_id": 1,
-      "duration": "3 semanas",
-      "project_name:": "Renovación de habitación infantil",
-      "client_name": "Carla Diaz",
-      "rating": 5,
-      "comment": "¡Quedamos encantados con el resultado! Nuestro hijo está feliz con su nueva habitación. ¡Gracias!",
-      "image": "https://img.freepik.com/foto-gratis/interior-decoracion-habitacion-ninos-juguetes_23-2149096020.jpg?t=st=1714091504~exp=1714095104~hmac=7382e4055471b5ed4867ce54e9a597e6afa96e869b73721fc6f3eaa79cc86713&w=1380"
-    },
-    {
-      "id": 3,
-      "remodeler_id": 2,
-      "duration": "2 meses",
-      "project_name:": "Estrena cocina nueva!",
-      "client_name": "Pedro Ramirez",
-      "rating": 4,
-      "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecho con el resultado.",
-      "image": "https://img.freepik.com/foto-gratis/hermoso-diseno-interior-cocina_23-2150976573.jpg?t=st=1714091319~exp=1714094919~hmac=20dc34d71dcf2041fa354a8c0f13d0fbed639d3f825eabbb8075aa14d00bb6e1&w=996"
-    },
-    {
-      "id": 4,
-      "remodeler_id": 2,
-      "duration": "1 mes",
-      "project_name:": "Renovación de baño principal",
-      "client_name": "Ana Lopez",
-      "rating": 5,
-      "comment": "¡Increíble trabajo! El baño quedó espectacular, muy moderno y funcional. ¡Gracias por todo!",
-      "image": "https://img.freepik.com/foto-gratis/bano-pequeno-estilo-moderno-plantas_23-2150700372.jpg?t=st=1714091587~exp=1714095187~hmac=ac055413b11839d2506026afdeac945a48985a9353e09c723bdad7c40b27d374&w=1380"
-    },
-    {
-      "id": 5,
-      "remodeler_id": 3,
-      "duration": "3 semanas",
-      "project_name:": "Comedor natural",
-      "client_name": "Luisa Torres",
-      "rating": 4,
-      "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecha con el resultado.",
-      "image": "https://img.freepik.com/foto-gratis/fondo-mesa-comedor-llamadas-zoom_23-2149684456.jpg?t=st=1714097910~exp=1714101510~hmac=4cb532ff0c6ef7fce430ea91998b1037ff4ed0adf722264299acdb3745a05118&w=1380"
     }
   ]
 }
