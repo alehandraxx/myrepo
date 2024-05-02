@@ -17,9 +17,9 @@
         },    
         {
           "id": 2,
-          "name": "Renovación de habitación infantil",
-          "image": "https://img.freepik.com/foto-gratis/interior-decoracion-habitacion-ninos-juguetes_23-2149096020.jpg?t=st=1714091504~exp=1714095104~hmac=7382e4055471b5ed4867ce54e9a597e6afa96e869b73721fc6f3eaa79cc86713&w=1380",
-          "description": "En el proyecto de renovación de la habitación infantil, creamos un espacio vibrante y divertido que estimula la imaginación y el juego. Utilizamos colores alegres y patrones lúdicos en la pintura de las paredes y los accesorios decorativos. Instalamos muebles funcionales y seguros, diseñados específicamente para niños, que ofrecen tanto espacio de almacenamiento como áreas de juego."
+          "name": "Patio de juegos funcional",
+          "image": "https://img.freepik.com/foto-gratis/chica-sonriente-tiro-completo-sindrome-down_23-2149531917.jpg?t=st=1714098155~exp=1714101755~hmac=403567141cb1307b86321ad750d68939bab23c2860f97d0e27e8c312036da6c9&w=1380",
+          "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad."
         }
       ],
       "reviews": [
@@ -45,26 +45,27 @@
       "portfolio": [
         {
           "id": 1,
-          "name": "Estrena cocina nueva!",
-          "image": "https://img.freepik.com/foto-gratis/hermoso-diseno-interior-cocina_23-2150976573.jpg?t=st=1714091319~exp=1714094919~hmac=20dc34d71dcf2041fa354a8c0f13d0fbed639d3f825eabbb8075aa14d00bb6e1&w=996",
+          "name": "Dormitorio elegante",
+          "image": "https://img.freepik.com/foto-gratis/dormitorio-lampara-arana-cama-manta-encima_188544-33431.jpg?t=st=1714098131~exp=1714101731~hmac=2eeba4d7aa4cbcf03b2804c409281ee95b50392253bd3b9164c9bdf883dc5df0&w=1380",
           "description": "En el proyecto de remodelación de la cocina, transformamos el espacio en un ambiente funcional y estéticamente atractivo. Actualizamos los gabinetes y electrodomésticos para mejorar la eficiencia y el estilo, instalamos encimeras de alta calidad para mayor durabilidad y elegancia, y diseñamos una distribución inteligente para maximizar el espacio de almacenamiento y la comodidad durante el uso diario. "
-        },      
+        }, 
         {
           "id": 2,
-          "name": "Renovación de baño principal",
-          "image": "https://img.freepik.com/foto-gratis/bano-pequeno-estilo-moderno-plantas_23-2150700372.jpg?t=st=1714091587~exp=1714095187~hmac=ac055413b11839d2506026afdeac945a48985a9353e09c723bdad7c40b27d374&w=1380",
-          "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad. Actualizamos los azulejos y la grifería para dar un aspecto moderno y elegante. Instalamos una ducha de alta tecnología con múltiples funciones y una bañera independiente para mayor comodidad y relajación. Además, incorporamos iluminación LED para crear un ambiente relajante y spa. El diseño se centró en maximizar el espacio de almacenamiento y mejorar la eficiencia del baño, convirtiéndolo en un oasis de tranquilidad y confort."
-        }
+          "name": "Renovación de habitación infantil",
+          "image": "https://img.freepik.com/foto-gratis/interior-decoracion-habitacion-ninos-juguetes_23-2149096020.jpg?t=st=1714091504~exp=1714095104~hmac=7382e4055471b5ed4867ce54e9a597e6afa96e869b73721fc6f3eaa79cc86713&w=1380",
+          "description": "En el proyecto de renovación de la habitación infantil, creamos un espacio vibrante y divertido que estimula la imaginación y el juego. Utilizamos colores alegres y patrones lúdicos en la pintura de las paredes y los accesorios decorativos. Instalamos muebles funcionales y seguros, diseñados específicamente para niños, que ofrecen tanto espacio de almacenamiento como áreas de juego."
+        }     
+
       ],
       "reviews": [
         {
           "id": 1,
           "duration": "2 meses",
-          "project": "Estrena cocina nueva!",
+          "project": "Dormitorio elegante",
           "client_name": "Pedro Ramirez",
           "rating": 4,
           "comment": "Buen trabajo en general, aunque hubo algunos retrasos en la entrega. En general, satisfecho con el resultado.",
-          "image": "https://img.freepik.com/foto-gratis/hermoso-diseno-interior-cocina_23-2150976573.jpg?t=st=1714091319~exp=1714094919~hmac=20dc34d71dcf2041fa354a8c0f13d0fbed639d3f825eabbb8075aa14d00bb6e1&w=996"
+          "image": "https://img.freepik.com/foto-gratis/dormitorio-lampara-arana-cama-manta-encima_188544-33431.jpg?t=st=1714098131~exp=1714101731~hmac=2eeba4d7aa4cbcf03b2804c409281ee95b50392253bd3b9164c9bdf883dc5df0&w=1380"
         }
       ]
     },
@@ -77,11 +78,11 @@
       "city": "Lima",
       "description": "Especialistas en renovaciones residenciales, ofreciendo soluciones innovadoras y de alta calidad. Con más de 10 años de experiencia. Ubicados en el distrito de San Miguel en Lima, Perú.",
       "portfolio": [
-        { 
+        {
           "id": 1,
-          "name": "Comedor natural",
-          "image": "https://img.freepik.com/foto-gratis/fondo-mesa-comedor-llamadas-zoom_23-2149684456.jpg?t=st=1714097910~exp=1714101510~hmac=4cb532ff0c6ef7fce430ea91998b1037ff4ed0adf722264299acdb3745a05118&w=1380",
-          "description": "Transformamos tu comedor en un espacio acogedor y moderno, con diseños personalizados y atención a cada detalle."
+          "name": "Estrena cocina nueva!",
+          "image": "https://img.freepik.com/foto-gratis/hermoso-diseno-interior-cocina_23-2150976573.jpg?t=st=1714091319~exp=1714094919~hmac=20dc34d71dcf2041fa354a8c0f13d0fbed639d3f825eabbb8075aa14d00bb6e1&w=996",
+          "description": "En el proyecto de remodelación de la cocina, transformamos el espacio en un ambiente funcional y estéticamente atractivo. Actualizamos los gabinetes y electrodomésticos para mejorar la eficiencia y el estilo, instalamos encimeras de alta calidad para mayor durabilidad y elegancia, y diseñamos una distribución inteligente para maximizar el espacio de almacenamiento y la comodidad durante el uso diario. "
         },
         {
           "id": 2,
@@ -104,15 +105,15 @@
       "portfolio": [
         {
           "id": 1,
-          "name": "Dormitorio elegante",
-          "image": "https://img.freepik.com/foto-gratis/dormitorio-lampara-arana-cama-manta-encima_188544-33431.jpg?t=st=1714098131~exp=1714101731~hmac=2eeba4d7aa4cbcf03b2804c409281ee95b50392253bd3b9164c9bdf883dc5df0&w=1380",
-          "description": "En el proyecto de remodelación de la cocina, transformamos el espacio en un ambiente funcional y estéticamente atractivo. Actualizamos los gabinetes y electrodomésticos para mejorar la eficiencia y el estilo, instalamos encimeras de alta calidad para mayor durabilidad y elegancia, y diseñamos una distribución inteligente para maximizar el espacio de almacenamiento y la comodidad durante el uso diario. "
-        },      
+          "name": "Renovación de baño principal",
+          "image": "https://img.freepik.com/foto-gratis/bano-pequeno-estilo-moderno-plantas_23-2150700372.jpg?t=st=1714091587~exp=1714095187~hmac=ac055413b11839d2506026afdeac945a48985a9353e09c723bdad7c40b27d374&w=1380",
+          "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad. Actualizamos los azulejos y la grifería para dar un aspecto moderno y elegante. Instalamos una ducha de alta tecnología con múltiples funciones y una bañera independiente para mayor comodidad y relajación. Además, incorporamos iluminación LED para crear un ambiente relajante y spa. El diseño se centró en maximizar el espacio de almacenamiento y mejorar la eficiencia del baño, convirtiéndolo en un oasis de tranquilidad y confort."
+        }, 
         {
           "id": 2,
-          "name": "Patio de juegos funcional",
-          "image": "https://img.freepik.com/foto-gratis/chica-sonriente-tiro-completo-sindrome-down_23-2149531917.jpg?t=st=1714098155~exp=1714101755~hmac=403567141cb1307b86321ad750d68939bab23c2860f97d0e27e8c312036da6c9&w=1380",
-          "description": "En el proyecto de renovación del baño principal, creamos un espacio de lujo y funcionalidad."
+          "name": "Renovación de cuarto de servicios",
+          "image": "https://img.freepik.com/foto-gratis/bano-moderno-espejos-elegantes-fregaderos-blancos-limpios_91128-4632.jpg?t=st=1714631027~exp=1714634627~hmac=d3bd68f5ef5a6a9841b6edd5b569f3258671221e279890527d3381e340ec38a7&w=1380",
+          "description": "En el proyecto de renovación del cuarto de servicios, creamos un espacio tranquilo y relajante. Utilizamos colores tierra y patrones minimalistas en la pintura de las paredes y los accesorios decorativos. Instalamos muebles funcionales y seguros, diseñados específicamente para tus necesidades."
         }
       ],
       "reviews": [
